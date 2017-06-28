@@ -18,3 +18,5 @@ Coke
 Chicken breast
 Lettuce
 Water
+
+## washing stuff
