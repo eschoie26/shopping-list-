@@ -20,3 +20,5 @@ Lettuce
 Water
 
 ## washing stuff
+detergent
+fabric softner 
